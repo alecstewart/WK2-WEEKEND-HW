@@ -1,0 +1,122 @@
+body{
+  background-image: url(../water2.jpg);
+  width: 100%;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+
+  h1{
+    font-size: 36px;
+    text-align: center;
+    color: pink;
+    text-decoration-color: white;
+    text-shadow: 0 4px 4px black;
+    }
+
+  .button1{
+    margin-top: 1em;
+    width: 60%;
+    max-width: 225px;
+    padding: 2.5%;
+    border: 2px solid pink;
+    border-radius: 4px;
+    background-color: transparent;
+    color: pink;
+    font-size: 50px;
+    font-weight: bold;
+    transition: all 0.2s ease-out;
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 0 4px 4px black;
+    box-shadow: 0 4px 4px black;
+    }
+  .button1:hover {
+    background-color: transparent;
+    color: #ffffff;
+    text-shadow: 0 2px 2px pink;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.7);
+    }
+    .fotorama{
+      margin: 0;
+
+    }
+    .button2{
+      margin-top: 1em;
+      width: 60%;
+      max-width: 225px;
+      padding: 2.5%;
+      border: 2px solid pink;
+      border-radius: 4px;
+      background-color: transparent;
+      color: pink;
+      font-size: 50px;
+      font-weight: bold;
+      transition: all 0.2s ease-out;
+      font-family: 'Press Start 2P', cursive;
+      text-shadow: 0 4px 4px black;
+      box-shadow: 0 4px 4px black;
+      }
+    .button2:hover {
+      background-color: transparent;
+      color: #ffffff;
+      text-shadow: 0 2px 2px pink;
+      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.7);
+      }
+      .button3{
+        margin-top: 1em;
+        width: 60%;
+        max-width: 225px;
+        padding: 2.5%;
+        border: 2px solid pink;
+        border-radius: 4px;
+        background-color: transparent;
+        color: pink;
+        font-size: 50px;
+        font-weight: bold;
+        transition: all 0.2s ease-out;
+        font-family: 'Press Start 2P', cursive;
+        text-shadow: 0 4px 4px black;
+        box-shadow: 0 4px 4px black;
+        }
+      .button3:hover {
+        background-color: transparent;
+        color: #ffffff;
+        text-shadow: 0 2px 2px pink;
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.7);
+        }
+
+      #sparkle {
+        text-align: center;
+        height:20em;
+        width:100%;
+        margin-top: .5em;
+        margin-bottom: .5em;
+        border: 2px solid pink;
+        border-radius: 4px;
+        background-color: transparent;
+        color: pink;
+        font-size: 50px;
+        font-weight: bold;
+        font-family: 'Press Start 2P', cursive;
+        text-shadow: 0 4px 4px black;
+        box-shadow: 0 4px 4px black;
+        }
+
+      .lastplugin{
+        text-align: center;
+        height:20em;
+        width:100%;
+        margin-top: .5em;
+        margin-bottom: .5em;
+        border: 2px solid pink;
+        border-radius: 4px;
+        background-color: transparent;
+        color: pink;
+        font-size: 50px;
+        font-weight: bold;
+        font-family: 'Press Start 2P', cursive;
+        text-shadow: 0 4px 4px black;
+        box-shadow: 0 4px 4px black;
+        }
+
+
+
+}
